@@ -1,0 +1,15 @@
+{
+  "name": "knicks",
+  "version": "1.0.0",
+  "description": "New York Knicks Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Calabrese",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "node-modules": "^1.0.1"
+  }
+}
